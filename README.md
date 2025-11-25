@@ -1,3 +1,4 @@
 # Mi primer repositorio
-# Análisis de ventas mejorado
-# Agregar análisis de datos principal 11
+# Análisis de datos principal 11
+# Análisis de ventas mejorado 1
+
